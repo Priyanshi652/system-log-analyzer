@@ -1,4 +1,4 @@
-                                                                                                      ##🔍 System Log Analyzer
+                                                      ##🔍 System Log Analyzer
 
 Have you ever found yourself buried in system log files, struggling to spot errors, warnings, or unusual activity? I certainly did—and that’s exactly why I created System Log Analyzer.
 

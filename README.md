@@ -19,12 +19,10 @@ A Python & Batch-powered command-line utility that fetches, filters, highlights,
 5. 📦 Use Case Scenarios  
 6. 🧠 How It Works  
 7. 🏃‍♂️ Usage Guide  
-8. 🔄 Extending the Tool  
-9. 📷 Sample Output  
-10. ❓ FAQ  
-11. 🧪 Basic Test Cases  
-12. 🤝 Contributing  
-13. 🙏 Acknowledgments
+8. 📷 Sample Output  
+9. ❓ FAQ  
+10. 🧪 Basic Test Cases  
+11. 🙏 Acknowledgments
 
 ---
 
@@ -71,8 +69,7 @@ system-log-analyzer/
 │  
 ├── log_analyzer.py              → Python script (fetch, filter, highlight, archive)  
 ├── run_analyzer.bat             → Windows batch file for one-click execution  
-├── requirements.txt             → External dependencies (e.g., colorama)  
-├── .gitignore                   → Files/folders to ignore in Git  
+├── requirements.txt             → External dependencies (e.g., colorama)   
 ├── README.md                    → This documentation  
 └── sample_output/               → Example outputs  
     └── filtered_logs_example.txt → Sample filtered log results
